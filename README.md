@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-pixelarticons-pro/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-pixelarticons-pro" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-pixelarticons-pro">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-pixelarticons-pro" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-pixelarticons-pro">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-pixelarticons-pro" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-pixelarticons-pro">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-pixelarticons-pro" alt="License" />
-    </a>
-</p>
 
 ## About Pixelarticons Pro
 
